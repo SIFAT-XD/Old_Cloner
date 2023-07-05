@@ -7,4 +7,6 @@ git clone
 
 cd Old_Cloner
 
-python 
+python Old_Cloner.py
+
+thanks 🥰
