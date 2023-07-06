@@ -7,6 +7,6 @@ git clone https://github.com/SIFAT-XD/Old_Cloner
 
 cd Old_Cloner
 
-python Old_Cloner.py
+python Old_Cloner_V2.py
 
 thanks 🥰
